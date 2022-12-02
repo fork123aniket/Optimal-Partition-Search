@@ -17,6 +17,7 @@
  ```
   pip install Optimal-Partition-Search
   ```
+- More details on how to install this package and other relevant information can be found [***here***](https://pypi.org/project/Optimal-Partition-Search/0.0.1/)
 
 ## Example
 
