@@ -5,7 +5,7 @@
 
 ## Overview and Functionality
 
-- Official Implementation of the paper - ["***Optimal Partition Search***"][***IEEE Xplore***](https://ieeexplore.ieee.org/document/8869459)[***ResearchGate***](https://www.researchgate.net/publication/336638736_Optimal_Partition_Search)
+- Official Implementation of the paper - "***Optimal Partition Search***" [(***IEEE Xplore***)](https://ieeexplore.ieee.org/document/8869459) [(***ResearchGate***)](https://www.researchgate.net/publication/336638736_Optimal_Partition_Search)
 - Searches for the optimal number of partitions required to speed up the search process
 - Works for arrays having any data type (int, float, char, long, etc.)
 - Independent of the order of the elements in the array, i.e. can work for both sorted and unsorted array settings
